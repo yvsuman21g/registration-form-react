@@ -1,0 +1,19 @@
+
+.image{
+    display: flex;
+}
+.Paragraph{
+    width: 50%;
+    
+}
+.para{
+    display: block;
+    padding:0px 20px;
+}
+.btn{
+    margin-left: 20px;
+    border: none;
+    padding: 10px;
+    color: white;
+    background-color: blue;
+}

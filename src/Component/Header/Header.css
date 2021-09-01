@@ -1,0 +1,26 @@
+.center{
+    background-color: violet;
+}
+.wid{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-items: center;  
+    
+}
+
+.line{
+    text-align: center;
+    background-color: violet;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.horizontal{
+   display: inline;
+  padding: 50px 100px;
+}
+.none{
+    text-decoration: none;
+    color: #000000;
+}
